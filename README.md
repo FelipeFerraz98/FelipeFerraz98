@@ -25,6 +25,6 @@ I'm a Computer Science student passionate about programming and technology. I am
 
 <div>
 <a href = "https://github.com/FelipeFerraz98">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=FelipeFerraz98&theme=dakr&show_icons=true&icon_color=4169e1&bg_color=141414&text_color=ffff&title_color=4169e1"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerraz98&layout=donut&theme=dark&text_color=ffff&bg_color=141414&title_color=4169e1"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=FelipeFerraz98&theme=dakr&show_icons=true&icon_color=4169e1&bg_color=141414&text_color=ffff&title_color=4169e1"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerraz98&layout=donut&theme=dark&text_color=ffff&bg_color=141414&title_color=4169e1"/>
 </div>
