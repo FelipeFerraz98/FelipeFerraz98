@@ -1,4 +1,4 @@
-#Hello, my name is Felipe! 👋
+# Hello, my name is Felipe! 👋
 Welcome to my GitHub! Here are all my codes, personal projects and study projects related to my Computer Science course and my journey as a back-end developer focusing on C# and Python. I'm looking for job opportunities in the field of back-end development in C# and Python, and this repository serves as a showcase of my work and skills.
 
 
