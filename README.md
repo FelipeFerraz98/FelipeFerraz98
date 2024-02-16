@@ -1,10 +1,8 @@
-# Hello, my name is Felipe! 👋
-Welcome to my GitHub! Here are all my codes, personal projects and study projects related to my Computer Science course and my journey as a back-end developer. I'm looking for job opportunities in the field of back-end development, and this repository serves as a showcase of my work and skills.
-
+# Hello, I'm Felipe! 👋
+Welcome to my GitHub! Here you will find my codes, personal projects and studies related to my journey as a Computer Science student and developer.
 
 ## 🚀 About me
-I am a Computer Science student passionate about programming and technology. I am currently expanding my knowledge in C# and Python, in addition to having experience in intermediate C, HTML, CSS and Java. I am committed to learning and improving my back-end development skills, seeking efficient and elegant solutions to problems.
-
+I am a Computer Science student passionate about programming and technology. I am expanding my knowledge and have experience in C#, Python, Javascript, HTML, CSS, C and Java. I'm focused on improving my development skills to find efficient and elegant solutions to problems.
 
 ## 🔗 Links
 
