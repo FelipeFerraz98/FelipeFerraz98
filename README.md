@@ -21,7 +21,7 @@ I am always looking for improvements in the .NET ecosystem and participate in ch
 ## 🛠 Skills
 <div align="center">
 
-[![Tecnologies](https://skillicons.dev/icons?i=cs,py,js,react,linux&perline=14)](https://github.com/FelipeFerraz98)
+[![Tecnologies](https://skillicons.dev/icons?i=cs,py,js,react,linux,docker&perline=14)](https://github.com/FelipeFerraz98)
 
 </div>
 
