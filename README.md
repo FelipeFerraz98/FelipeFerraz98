@@ -32,10 +32,10 @@ I am always looking for improvements in the .NET ecosystem and participate in ch
 <div align="center"
     style="margin-top: 15px;">
 <a href = "https://github.com/FelipeFerraz98">
-<img height="170em" 
+<img height="140em" 
     style="border: 1px solid white; border-radius: 0.5em;"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeferraz98&theme=tokyonight"/>
-<img height="170em"
+<img height="140em"
     style="border: 0.1px solid white; border-radius: 0.5em; margin-left: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerraz98&layout=donut&theme=tokyonight"/>
 </div>
@@ -43,8 +43,8 @@ I am always looking for improvements in the .NET ecosystem and participate in ch
 <div align="center"
     style="margin-top: 15px;">
 <a href = "https://github.com/FelipeFerraz98">
-<img height="170em" src="https://github-profile-trophy.vercel.app/?username=felipeferraz98&row=1&column=3&theme=tokyonight&margin-w=15&margin-h=15"/>
-<img height="170em"
+<img height="140em" src="https://github-profile-trophy.vercel.app/?username=felipeferraz98&row=1&column=3&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img height="140em"
     style="border: 1px solid white; border-radius: 0.5em; margin-left: 10px;"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FelipeFerraz98&theme=tokyonight&utcOffset=-3"/>
 </div>
